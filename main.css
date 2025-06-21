@@ -101,6 +101,149 @@
 
 
 
+.hero2_container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+}
 
+.hero2_wrepper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 952px;
+    height: 179px;
+    margin: 0 auto;
+}
+
+.hero2_title{
+    color: #000000;
+    font-family: "Mulish";
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 56px;
+    padding-bottom: 61px;
+}
+
+.hero2_text{
+    color: #7d7987;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 36px;
+    text-align: center;
+}
+
+.hero2_list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 36px;
+    gap: 20px;
+}
+
+.hero2_item{
+    
+    list-style: none;
+    gap: 20px;
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+    background: #e7e7e7;
+}
+
+.hero2_img{
+    position: absolute;
+    width: 96.91px;
+    height: 93.84px;
+    margin: 68px 0px 0 39px;
+}
+
+.h3{
+    color: #000000;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 56px;
+    margin: 202px 170px 118px 41px;
+}
+.title6{
+    color: #000000;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 56px;
+    margin-bottom: 10px;  
+}
+.text6{
+    display: flex;
+    flex-wrap: wrap;
+    width: 283px;
+    height: 61px;
+    margin-left: 42px;
+    margin-bottom: 56px;
+    color: #7d7987;
+    font-family: "Mulish";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 28px;
+}
+
+.Group2{
+    width: 284px;
+    height: 285px;
+    margin: 62px 56px 31px 39px;
+}
+.Group1{
+    width: 276px;
+    height: 274px;
+    margin: 75px 52px 29px 51px;
+}
+.Group3{
+    width: 281px;
+    height: 285px;
+    margin: 62px 54px 33px 44px;
+}
+.Group4{
+    width: 275px;
+    height: 275px;
+    margin: 67px 64px 36px 40px;
+}
+
+
+
+.h33{
+    margin: 202px 170px 20px 41px;
+    color: #ffffff;
+    font-family: "Mulish";
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 56px;
+}
+.imgg{
+    width: 75px;
+    height: 102px;
+    margin: 55px 263px 43px 41px;
+}
+
+.hero2_text2{
+    color: #ffffff;
+    font-family: "Mulish";
+    font-weight: 200;
+    line-height: 28px;
+    font-size: 16px;
+    margin: 0 58px 28px 41px;
+}
+
+.item11:active{
+    background-color: #5a98f2;
+}
+
+.item11:hover{
+    background-color: hsl(216, 85%, 65%);
+}
 
 
