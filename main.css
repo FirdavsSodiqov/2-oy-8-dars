@@ -247,3 +247,245 @@
 }
 
 
+
+.hero_btn2{
+    /* btn */
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border: 1.4px solid #458ff6;
+    border-radius: 55px;
+    position: absolute;
+    width: 200px;
+    height: 56.74px;
+    left: 639px;
+    right: -639px;
+    margin-top: 32px;
+}
+.btn_text{
+    color: #458ff6;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.section_title{
+    color: #000000;
+    font-family: "Mulish";
+    font-size: 48px;
+    font-weight: 200;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 76px;
+}
+.razmer{
+    margin-top: 75px;
+}
+.section_img{
+    /* trafalgar-illustration sec02 1 */
+    position: absolute;
+    width: 628px;
+    height: 469.15px;
+}
+.section_h3{
+    color: #000000;
+    font-family: "Mulish";
+    margin: 36px 0 62px 745px;
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+.section_text{
+    color: #7d7987;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+.section_text_box{
+    width: 434px;
+    height: 121px;
+    margin: 62px 0 40px 745px;
+}
+.section_btn{
+    /* byn */
+    box-sizing: border-box;
+    border: 1.4px solid #458ff6;
+    background-color: #fff;
+    border-radius: 55px;
+    position: absolute;
+    width: 201.92px;
+    height: 56.74px;
+    margin: 40px 238px 37px 740px;
+}
+
+.razmer2_title{
+    margin-bottom: 109px;
+    color: #000000;
+    font-family: "Mulish";
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.razmer2{
+    /* Group 26 */
+    
+    position: absolute;
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+    height: 782.74px;
+    left: 130px;
+    right: 130px;
+    top: 2689px;
+    bottom: 662.26px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 380px;
+    background-color: #ffffff;
+}
+
+.imggg{
+    width: 380px;
+    height: 240px;
+}
+
+.razmer2_h3{
+    /* display: flex;
+    align-items: end; */
+    text-align: left;
+    margin: 0 29px 10px 0 ;
+    color: #000000;
+    font-family: "Mulish";
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 32px;
+}
+.text{
+    color: #7d7987;
+    font-family: "Mulish";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.box{
+    width: 266px;
+    height: 204px;
+    margin: 30px 84px 42px 30px;
+}
+
+.readmore{
+    color: #4089ed;
+    font-family: "Mulish";
+    font-size: 17px;
+    font-weight: 200;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 18px 182px 0 0;
+    width: 84px;
+}
+.btn111{
+    margin: 0 auto;
+    margin-top: 55px;
+    box-sizing: border-box;
+    border: 1.4px solid #458ff6;
+    border-radius: 55px;
+    background-color: #ffffff;
+    width: 200px;
+    height: 57px;
+}
+.btn111_text{
+    color: #458ff6;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+
+
+.footer{
+    background-color: #67c3f3; 
+    position: absolute;
+    width: 1600px;
+    height: 432px;
+    left: -55px;
+    right: 55px;
+    top: 3702px;
+    bottom: -3702px;
+    padding-top: 159px;
+}
+.footer_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.trafalgar{
+    width: 386px;
+    height: 142px;
+}
+.footer_img{
+    margin-bottom: 22px;
+}
+.footer_text_box{
+    width: 386px;
+    height: 84px;
+}
+.footer_text{
+    color: #ffffff;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.footer_p{
+    color: #ffffff;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.footer_box{
+    display: flex;
+    justify-content: end;
+    margin-left: 150px;
+    gap: 170px;
+    max-width: 642px;
+}
+
+.footer_list{
+    display: flex;
+    justify-content: space-between;
+    display: inline-block;
+    list-style: none;
+}
+
